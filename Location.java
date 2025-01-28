@@ -14,7 +14,7 @@ package searchengine;
  * Miss Jerry is the movie's title. "The" the word at position 1, "adventures" 
  * the word at position 2, and so on.
  * 
- * @author Haolin (Daniel) Jin
+ * @author Kobe Martinez
  */
 public class Location {
 
