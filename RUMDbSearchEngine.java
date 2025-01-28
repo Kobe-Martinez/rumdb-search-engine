@@ -7,8 +7,7 @@ import java.util.Collections;
  * This class builds a hash table of words from movies descriptions. Each word maps to a set
  * of movies in which it occurs.
  * 
- * @author Haolin (Daniel) Jin
- * @author Ana Paula Centeno
+ * @author Kobe Martinez
  * 
  */
 public class RUMDbSearchEngine {
