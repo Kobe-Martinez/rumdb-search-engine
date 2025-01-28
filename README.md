@@ -92,7 +92,7 @@ This project is ideal for demonstrating concepts such as hashing, collision hand
 
 ## File Outputs
 
-- **Console Outpu**: Prints the hash table and search results, including the ranked movie titles
+- **Console Output**: Prints the hash table and search results, including the ranked movie titles
 
 ## License
 
