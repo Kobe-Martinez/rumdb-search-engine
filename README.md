@@ -1,6 +1,11 @@
 # RUMDb Search Engine
 
-The RUMDb Search Engine is a Java implementation of a movie search engine that builds a hash table from movie descriptions. It maps each word to a set of movies where the word appears, enabling efficient keyword searches. The search engine excludes noise words, calculates the proximity of search terms, and ranks movies based on their relevance.
+The RUMDb Search Engine is a Java-based project designed to function as a lightweight search engine for a database of movies. It focuses on efficient keyword-based searches within movie descriptions using a hash table to store and index the data. The hash table maps each word found in movie descriptions to the specific movies and locations where the word occurs. Noise words, such as "the" or "and," are filtered out during this process to ensure meaningful results.
+
+The search engine allows users to query movies based on one or two keywords and ranks results based on how closely the queried words appear within the movie descriptions. It can calculate the minimum distance between the search terms and sort the results accordingly. Additionally, the search engine includes features like dynamic rehashing to maintain efficiency as the dataset grows.
+
+This project is ideal for demonstrating concepts such as hashing, collision handling, word filtering, and data retrieval. It serves as a practical implementation of how search engines index and query data, showcasing efficient data structures and algorithms in Java.
+
 
 ## Table of Contents
 
