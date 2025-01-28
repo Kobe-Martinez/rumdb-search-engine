@@ -6,7 +6,7 @@ import java.util.ArrayList;
  *
  * This class represents the occurrences of a word in every movie description it appears.
  * 
- * @author Haolin (Daniel) Jin
+ * @author Kobe Martinez
  */ 
 
 public class WordOccurrence {
